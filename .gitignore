@@ -41,3 +41,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ internal files
+.idea/
+
+# Gradle build and wrapper files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar  # Keep the wrapper JAR if you want others to build easily
+!gradle/wrapper/gradle-wrapper.properties
+
+# Project-specific libraries
+/lib/
+*.jar
