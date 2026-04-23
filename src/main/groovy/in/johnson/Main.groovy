@@ -1,4 +1,4 @@
-package org.example
+package in.johnson
 
 static void main(String[] args) {
     println "Hello world!"

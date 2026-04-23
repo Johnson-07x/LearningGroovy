@@ -1,4 +1,4 @@
-package org.example
+package in.johnson
 
 class Addition {
     static void main(String[] args) {
