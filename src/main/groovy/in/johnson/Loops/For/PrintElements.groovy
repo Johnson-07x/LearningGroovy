@@ -1,4 +1,4 @@
-package in.johnson.Loops
+package in.johnson.Loops.For
 
 class PrintElements {
     static void main(String[] args) {

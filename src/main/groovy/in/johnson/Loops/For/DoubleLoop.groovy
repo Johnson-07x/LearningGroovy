@@ -1,4 +1,4 @@
-package in.johnson.Loops
+package in.johnson.Loops.For
 
 class DoubleLoop {
     static void main(String[] args) {
